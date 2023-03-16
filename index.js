@@ -30,17 +30,3 @@ Array.from(buttons).forEach((buttons)=>{
     })
 });
 
-
-// var ele=0;
-// var button=document.querySelectorAll('.btn');
-// button.addEventListener('click', function(){
-// document.querySelector('display').value=ele;
-// if(ele=='='){
-//    ele= eval(ele);
-//    console.log(ele);
-// }
-// else{
-
-
-// }
-// })
